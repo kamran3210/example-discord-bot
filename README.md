@@ -16,4 +16,4 @@ Replace `YOUR-DISCORD-BOT-TOKEN-HERE` in `.env.` with your bot token.
 
 `npm run start` to start the bot.
 
-`npm run start:dev` to start the bot in dev mode (cold reloads on saves).
+`npm run start:dev` to start the bot in dev mode (runs using ts-node and cold reloads on saves).
